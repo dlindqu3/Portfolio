@@ -84,7 +84,7 @@ class App extends Component {
         <Header sharedData={this.state.sharedData.basic_info} />
         <Switch>
           <Route exact path="/">
-            <Home
+            <Home 
               resumeData={this.state.resumeData}
               sharedData={this.state.sharedData}
             />
