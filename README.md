@@ -1,3 +1,2 @@
-# Modify this portfolio
-
-Make it your own! 
+## Deployment URL: 
+- https://dwight-lindquist-portfolio.netlify.app/ 

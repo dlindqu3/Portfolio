@@ -9,9 +9,9 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/dwight-lindquist-a9a0b6b4/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"

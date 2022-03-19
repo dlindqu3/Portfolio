@@ -39,8 +39,8 @@
         "startDate": "2022",
         "description": "I created a website on which users can view and vote for various types of horned beasts.",
         "images": [
-          "images/portfolio/photography/dragons.jpg",
-          "images/portfolio/photography/lizzard.jpg"
+          "images/portfolio/horns/dragons.jpg",
+          "images/portfolio/horns/lizzard.jpg"
         ],
         "url": "https://optimistic-shirley-8ffc75.netlify.app/",
         "technologies": [
